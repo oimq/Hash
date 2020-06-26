@@ -1,4 +1,4 @@
-class hashXOR :
+class hasHXOR :
     # clen : chop length
     def __init__(self, hdict=None) :
         self.hdict = hdict if hdict else { w:i for i,w in enumerate(
@@ -25,6 +25,3 @@ class hashXOR :
         code = "".join([self.ndict[b%len(self.ndict)] for b in binaries[:wlen]])
         return code
 
-if __name__=="__main__" :
-    h4 = hashXOR()
-    print(h4.digest('adidas', 4))

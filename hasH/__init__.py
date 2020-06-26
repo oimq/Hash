@@ -1,0 +1,1 @@
+from .hasH import hasHXOR
