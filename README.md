@@ -14,7 +14,7 @@ pip3 install Hash-master/
 
 ### Projects
 
-Now, we make the hashXOR generator.
+Now, we make the hasHXOR generator.
 
 the notions are below.
 
