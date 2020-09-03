@@ -27,8 +27,8 @@ the notions are below.
 
 * Script
 ```python3
-from Hash import HashXOR
-hxor = hashXOR()
+from hasH import hasHXOR
+hxor = hasHXOR()
 print(h4.digest('adidas', 4))
 ```
 * Outputs
