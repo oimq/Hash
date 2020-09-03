@@ -1,4 +1,4 @@
-## Hash
+## hasH
 
 ##### Our hash code generator
 
@@ -7,7 +7,7 @@
 ### Installation
 
 ```code
-pip3 install Hash-master/
+pip3 install hasH-master/
 ```
 
 ***
